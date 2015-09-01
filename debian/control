@@ -1,0 +1,16 @@
+Source: snippets
+Section: plugins
+Priority: optional
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: snippets
+Section: plugins
+Architecture: all
+XBSC-Group: Programming
+Description: Snippets
+ Store and recall snippets of code and text.
+
+
+
